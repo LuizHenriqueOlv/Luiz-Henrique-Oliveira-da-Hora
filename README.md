@@ -14,7 +14,7 @@ Candidato: Luiz Henrique Oliveira da Hora
 ### Executando
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/LuizHenriqueOlv/Luiz-Henrique-Oliveira-da-Hora---Desafio-Backend-LEDS.git
+   git clone https://github.com/LuizHenriqueOlv/Luiz-Henrique-Oliveira-da-Hora
    
    dotnet build
    dotnet run
