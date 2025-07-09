@@ -33,18 +33,18 @@ Candidato: Luiz Henrique Oliveira da Hora
 
 ### Busca de candidatos por concurso
 
-  Ao informar o código do concurso, o sistema lista todos os candidatos que possuem as profissões compatíveis com as vagas daquele concurso.
+- Ao informar o código do concurso, o sistema lista todos os candidatos que possuem as profissões compatíveis com as vagas daquele concurso.
 
 # Estrutura dos arquivos de dados
 
 1. candidatos.txt: arquivo texto contendo os dados dos candidatos no formato:
 
-  Nome,Data de Nascimento,CPF,Profissões
+- Nome,Data de Nascimento,CPF,Profissões
 
 2. concursos.txt: arquivo texto contendo os dados dos concursos no formato:
 
-  Órgão,Edital,Código do Concurso,Lista de vagas
+- Órgão,Edital,Código do Concurso,Lista de vagas
 
 
 # Observações
-  Os arquivos candidatos.txt e concursos.txt devem estar no mesmo diretório da aplicação.
+- Os arquivos candidatos.txt e concursos.txt devem estar no mesmo diretório da aplicação.
