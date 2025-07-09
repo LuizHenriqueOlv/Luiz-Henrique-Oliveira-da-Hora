@@ -1,0 +1,14 @@
+C:\Users\luizh\Leds\bin\Debug\net9.0\Leds.exe
+C:\Users\luizh\Leds\bin\Debug\net9.0\Leds.deps.json
+C:\Users\luizh\Leds\bin\Debug\net9.0\Leds.runtimeconfig.json
+C:\Users\luizh\Leds\bin\Debug\net9.0\Leds.dll
+C:\Users\luizh\Leds\bin\Debug\net9.0\Leds.pdb
+C:\Users\luizh\Leds\obj\Debug\net9.0\Leds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\Leds\obj\Debug\net9.0\Leds.AssemblyInfoInputs.cache
+C:\Users\luizh\Leds\obj\Debug\net9.0\Leds.AssemblyInfo.cs
+C:\Users\luizh\Leds\obj\Debug\net9.0\Leds.csproj.CoreCompileInputs.cache
+C:\Users\luizh\Leds\obj\Debug\net9.0\Leds.dll
+C:\Users\luizh\Leds\obj\Debug\net9.0\refint\Leds.dll
+C:\Users\luizh\Leds\obj\Debug\net9.0\Leds.pdb
+C:\Users\luizh\Leds\obj\Debug\net9.0\Leds.genruntimeconfig.cache
+C:\Users\luizh\Leds\obj\Debug\net9.0\ref\Leds.dll
